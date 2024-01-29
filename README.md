@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Cybersecurity**
 
-- 👨‍💻 All of my projects are available at [https://github.com/biku34](https://github.com/biku34)
+- 👨‍💻 All of my projects are available at [https://bikramsadhukhan.netlify.app/](https://bikramsadhukhan.netlify.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@bikramsadhukhan505](https://medium.com/@bikramsadhukhan505)
 
