@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bikram Sadhukhan</h1>
 <h3 align="center">A passionate cybersecurity student from India</h3>
 
-- 🔭 I’m currently working on [Java Based Chat App](https://github.com/biku34/group_chat)
-
+- 🔭 I’m currently working on TryHackMe Rooms
+  
 - 🌱 I’m currently learning **Cybersecurity**
 
 - 👨‍💻 All of my projects are available at [https://bikramsadhukhan.netlify.app/](https://bikramsadhukhan.netlify.app/)
