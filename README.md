@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bikram Sadhukhan</h1>
 <h3 align="center">A passionate cybersecurity student from India</h3>
 
-- 🔭 I’m currently studying building https://biku34.github.io/cc
+- 🔭 I’m currently studying building some cool projects for my github.
   
 - 🌱 I’m currently learning **Cybersecurity**
 
